@@ -1,6 +1,6 @@
 name: enhanced_read_more
 description: A Flutter package that allows you to expand and collapse text dynamically
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/e200/enhanced_read_more
 
 environment:

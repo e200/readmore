@@ -10,7 +10,7 @@ This is a fork of https://github.com/jonataslaw/readmore that allows you to cont
 add to your pubspec
 
 ```
-enhanced_read_more: ^0.0.1
+enhanced_read_more: ^0.0.2
 ```
 and import:
 ```
